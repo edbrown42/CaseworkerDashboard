@@ -67,6 +67,16 @@
 }
 
 .leaflet-container {
-    height: 60vh;
+    height: 90vh;
     width: 75vw;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
+
+/*Top Nav Bar*/
+.topBar {
+  height: 10vh !important;
 }

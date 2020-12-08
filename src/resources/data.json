@@ -1,0 +1,62 @@
+[
+    {
+        "userID": 1,
+        "firstName": "Jim",
+        "lastName": "Corbin",
+        "lastKnownLocation": [
+            {
+                "latitude": 40.4259,
+                "longitude": -86.9081
+            }
+        ],
+        "warningLevel": 0
+    },
+    {
+        "userID": 2,
+        "firstName": "Hartley",
+        "lastName": "Katee",
+        "lastKnownLocation": [
+            {
+                "latitude": 40.4359,
+                "longitude": -86.9181
+            }
+        ],
+        "warningLevel": 0
+    },
+    {
+        "userID": 3,
+        "firstName": "Candi",
+        "lastName": "Britannia",
+        "lastKnownLocation": [
+            {
+                "latitude": 40.4159,
+                "longitude": -86.8981
+            }
+        ],
+        "warningLevel": 1
+    },
+    {
+        "userID": 4,
+        "firstName": "Lyn",
+        "lastName": "Eppie",
+        "lastKnownLocation": [
+            {
+                "latitude": 40.4159,
+                "longitude": -86.9181
+            }
+        ],
+        "warningLevel": 2
+    },
+    {
+        "userID": 5,
+        "firstName": "Herbie",
+        "lastName": "Augusta",
+        "lastKnownLocation": [
+            {
+                "latitude": 40.4359,
+                "longitude": -86.8981
+            }
+        ],
+        "warningLevel": 1
+    }
+]
